@@ -1,6 +1,8 @@
 # GM2016, JFE
 Paper: Gormley, Todd A., and David A. Matsa. "Playing it safe? Managerial preferences, risk, and agency conflicts." Journal of financial economics 122.3 (2016): 431-455.
+
 Contributor: Dian Jiao 
+
 Email: dj2526@columbia.edu
 
 ## Introduction
