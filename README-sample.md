@@ -1,6 +1,8 @@
 # \[Abbreviation of the paper\], \[Abbreviation of the journal\]
 Paper: \[Properly cite the paper\]
+
 Contributor: \[Include if you would like others to know who you are\] 
+
 Email:  \[Include if you would like others to reach out to you\] 
 
 ## Introduction
