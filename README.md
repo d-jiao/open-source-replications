@@ -17,6 +17,7 @@ I suggest the following steps
 
 ## Which papers have been replicated
 - **GM2016**: Gormley, Todd A., and David A. Matsa. "Playing it safe? Managerial preferences, risk, and agency conflicts." Journal of Financial Economics 122.3 (2016): 431-455.
+- **K1996**: Kocherlakota, Narayana R. "The equity premium: It's still a puzzle." Journal of Economic Literature 34.1 (1996): 42-71.
 
 ## Updates
 11/17/2023: The project is initiated. 
